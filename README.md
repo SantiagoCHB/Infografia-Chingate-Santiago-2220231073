@@ -1,3 +1,3 @@
 # Infografia-Chingate-Santiago-2220231073
 
-[Primera parte infografia](ruta/1.jpg)
+[Primera parte infografia](1.jpg)
